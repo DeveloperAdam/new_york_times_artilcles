@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NY Times</string>
+    <string name="new_york_times">New York Times</string>
+    <string name="timeout_error">Unable to Connect. Please try again</string>
+    <string name="generic_error">Error occurred, please try again!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="created_by">Created By: </string>
+    <string name="source">Source: </string>
+    <string name="description">Description</string>
+</resources>
